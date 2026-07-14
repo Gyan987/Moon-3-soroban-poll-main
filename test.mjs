@@ -1,4 +1,4 @@
-async function main() {
+ async function main() { 
     console.log("🚀 Starting Soroban Contract Integration Test...");
   
     try {
