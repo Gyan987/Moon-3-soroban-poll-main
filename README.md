@@ -1,4 +1,4 @@
-# 🗳️ Soroban Poll Smart Contract & dApp (Level 3)
+# 🗳️ Soroban Poll Smart Contract & dApp (Level 3) 
 
 A production-ready, end-to-end decentralized voting application built on the Stellar network using Soroban smart contracts. This project features advanced contract logic, real-time event streaming, comprehensive unit testing, and a mobile-responsive frontend.
 
