@@ -1,4 +1,4 @@
-import { Client } from './frontend-package/dist/index.js';
+import { Client } from './frontend-package/dist/index.js'; 
 
 const client = new Client({
   networkPassphrase: 'Test SDF Network ; September 2015',
