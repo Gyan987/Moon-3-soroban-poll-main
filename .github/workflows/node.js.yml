@@ -1,4 +1,4 @@
-name: Soroban Poll Integrated CI
+name: Soroban Poll Integrated CI 
 
 on:
   push:
